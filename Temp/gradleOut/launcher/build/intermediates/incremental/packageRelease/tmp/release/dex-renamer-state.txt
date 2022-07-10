@@ -1,0 +1,4 @@
+#Sun Jul 10 17:47:06 CEST 2022
+base.0=C\:\\Users\\Artur\\Documents\\Unity\\My project\\GameAr\\GameAR\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
